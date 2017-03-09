@@ -1,0 +1,9 @@
+if you leave the name is not Makefile, for example: MyMakefile
+$ make -f MyMakefile
+
+ver1: Makefile very simple
+ver2: Makefile with some variables
+ver3: Makefile with some folders
+
+
+reference: http://www.gnu.org/software/make/manual/make.html#Reading
